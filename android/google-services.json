@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636490575975",
+    "firebase_url": "https://yellow-auth.firebaseio.com",
+    "project_id": "yellow-auth",
+    "storage_bucket": "yellow-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636490575975:android:5f4e96ca5b24d22aef64c2",
+        "android_client_info": {
+          "package_name": "com.android.yellow_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636490575975-q15lufqo9t42tbnff55ol713e50p0e0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8RVVGdZhbwKWqUAfbh-Nl1KVprdPyOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636490575975-q15lufqo9t42tbnff55ol713e50p0e0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
